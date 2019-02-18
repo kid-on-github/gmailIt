@@ -1,8 +1,8 @@
 # Gmail It
 Send emails with python via Gmail.
 
-### Installation
+### Install Dependencies
 ```sh
-$ pip install gmailIt
+$ pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib 
 ```
 
